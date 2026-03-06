@@ -24,8 +24,6 @@ The project demonstrates the complete FPGA design flow including design entry, s
 | Addition | Floating point addition |
 | Subtraction | Floating point subtraction |
 | Multiplication | Floating point multiplication |
-| Division | Floating point division |
-| Comparison | Greater than / Less than / Equal |
 
 ---
 
